@@ -1,0 +1,1860 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-06-05 18:23+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: industrial.php:20
+msgid "Header Left Widgets"
+msgstr ""
+
+#: industrial.php:26
+msgid "Header Right Widgets"
+msgstr ""
+
+#: industrial.php:32
+msgid "Footer Widgets"
+msgstr ""
+
+#: industrial.php:1825
+msgid "dys"
+msgstr ""
+
+#: industrial.php:1826
+msgid "hrs"
+msgstr ""
+
+#: industrial.php:1827
+msgid "min"
+msgstr ""
+
+#: industrial.php:1828
+msgid "sec"
+msgstr ""
+
+#: industrial.php:2368 industrial.php:2638 industrial.php:4346
+msgid "by"
+msgstr ""
+
+#: industrial.php:2509
+msgid "Category filter:"
+msgstr ""
+
+#: industrial.php:2518
+msgid "All"
+msgstr ""
+
+#: industrial.php:2525
+msgid "No more posts"
+msgstr ""
+
+#: industrial.php:2799 industrial.php:2801 industrial.php:3371
+msgid "Image"
+msgstr ""
+
+#: industrial.php:2799
+msgid "Single image"
+msgstr ""
+
+#: industrial.php:2802
+msgid "Caption Supetitle"
+msgstr ""
+
+#: industrial.php:2803
+msgid "Caption"
+msgstr ""
+
+#: industrial.php:2804
+msgid "Show Captions"
+msgstr ""
+
+#: industrial.php:2806 industrial.php:2833 industrial.php:2868
+#: industrial.php:2878 industrial.php:2899 industrial.php:2911
+#: industrial.php:2920 industrial.php:2953 industrial.php:2967
+#: industrial.php:3027 industrial.php:3063 industrial.php:3109
+#: industrial.php:3168 industrial.php:3237 industrial.php:3252
+#: industrial.php:3317 industrial.php:3351 industrial.php:3356
+#: industrial.php:3361 industrial.php:3381 industrial.php:3391
+#: industrial.php:3401 industrial.php:3442 industrial.php:3486
+#: industrial.php:3491 industrial.php:3496 industrial.php:3501
+#: industrial.php:3521 industrial.php:3551 industrial.php:3561
+#: industrial.php:3566
+msgid "No"
+msgstr ""
+
+#: industrial.php:2807 industrial.php:2834 industrial.php:2900
+#: industrial.php:2912 industrial.php:2921 industrial.php:3028
+#: industrial.php:3064 industrial.php:3238 industrial.php:3318
+#: industrial.php:3352 industrial.php:3357 industrial.php:3362
+#: industrial.php:3402 industrial.php:3485 industrial.php:3490
+#: industrial.php:3495 industrial.php:3500 industrial.php:3522
+#: industrial.php:3552 industrial.php:3562 industrial.php:3567
+msgid "Yes"
+msgstr ""
+
+#: industrial.php:2809 industrial.php:3276 industrial.php:3297
+#: industrial.php:3310
+msgid "Size"
+msgstr ""
+
+#: industrial.php:2809 industrial.php:2824 industrial.php:2836
+#: industrial.php:2886 industrial.php:2917 industrial.php:2918
+#: industrial.php:2923 industrial.php:2924 industrial.php:2937
+#: industrial.php:2938 industrial.php:3025 industrial.php:3030
+#: industrial.php:3031 industrial.php:3032 industrial.php:3033
+msgid "Design"
+msgstr ""
+
+#: industrial.php:2811 industrial.php:3287
+msgid "Full"
+msgstr ""
+
+#: industrial.php:2812
+msgid "Small (320px)"
+msgstr ""
+
+#: industrial.php:2813
+msgid "Small Square (320x320px)"
+msgstr ""
+
+#: industrial.php:2814
+msgid "Small Rectangle (320x240px)"
+msgstr ""
+
+#: industrial.php:2815
+msgid "Medium (640px)"
+msgstr ""
+
+#: industrial.php:2816
+msgid "Medium Square (640x640px)"
+msgstr ""
+
+#: industrial.php:2817
+msgid "Medium Rectangle (640x480px)"
+msgstr ""
+
+#: industrial.php:2818
+msgid "Large (1280px)"
+msgstr ""
+
+#: industrial.php:2819
+msgid "Large Square (1280x1280px)"
+msgstr ""
+
+#: industrial.php:2820
+msgid "Large Rectangle (1280x640px)"
+msgstr ""
+
+#: industrial.php:2821
+msgid "Large Vertical Rectangle (640x1280px)"
+msgstr ""
+
+#: industrial.php:2822
+msgid "Thumbnail  (160x160px)"
+msgstr ""
+
+#: industrial.php:2824
+msgid "Shape"
+msgstr ""
+
+#: industrial.php:2826 industrial.php:3147 industrial.php:3422
+msgid "Square"
+msgstr ""
+
+#: industrial.php:2827
+msgid "Square Outlined"
+msgstr ""
+
+#: industrial.php:2828
+msgid "Square Rounded"
+msgstr ""
+
+#: industrial.php:2829 industrial.php:3146
+msgid "Circle"
+msgstr ""
+
+#: industrial.php:2831 industrial.php:2918
+msgid "Lazy load this image"
+msgstr ""
+
+#: industrial.php:2836
+msgid "Hover Type"
+msgstr ""
+
+#: industrial.php:2838
+msgid "Default (Direction based)"
+msgstr ""
+
+#: industrial.php:2839
+msgid "Zoom in"
+msgstr ""
+
+#: industrial.php:2840
+msgid "Zoom in & Twist"
+msgstr ""
+
+#: industrial.php:2841
+msgid "To Grayscale"
+msgstr ""
+
+#: industrial.php:2842
+msgid "Simple"
+msgstr ""
+
+#: industrial.php:2844 industrial.php:3164 industrial.php:3249
+#: industrial.php:3439
+msgid "URL"
+msgstr ""
+
+#: industrial.php:2845
+msgid "Target"
+msgstr ""
+
+#: industrial.php:2847 industrial.php:3253 industrial.php:3443
+msgid "Self"
+msgstr ""
+
+#: industrial.php:2848 industrial.php:3254 industrial.php:3444
+msgid "Blank"
+msgstr ""
+
+#: industrial.php:2850 industrial.php:2943 industrial.php:2957
+#: industrial.php:2971 industrial.php:2979 industrial.php:3034
+#: industrial.php:3081 industrial.php:3115 industrial.php:3172
+#: industrial.php:3189 industrial.php:3215 industrial.php:3240
+#: industrial.php:3289 industrial.php:3302 industrial.php:3320
+#: industrial.php:3335 industrial.php:3364 industrial.php:3372
+#: industrial.php:3404 industrial.php:3448 industrial.php:3455
+#: industrial.php:3503 industrial.php:3569 industrial.php:3606
+#: industrial.php:3619
+msgid "Extra Class Name(s)"
+msgstr ""
+
+#: industrial.php:2850 industrial.php:2851 industrial.php:2942
+#: industrial.php:2943 industrial.php:2944 industrial.php:2971
+#: industrial.php:2972 industrial.php:3034 industrial.php:3035
+#: industrial.php:3081 industrial.php:3082 industrial.php:3115
+#: industrial.php:3116 industrial.php:3172 industrial.php:3173
+#: industrial.php:3189 industrial.php:3190 industrial.php:3215
+#: industrial.php:3216 industrial.php:3240 industrial.php:3241
+#: industrial.php:3289 industrial.php:3290 industrial.php:3302
+#: industrial.php:3303 industrial.php:3335 industrial.php:3336
+#: industrial.php:3364 industrial.php:3365 industrial.php:3372
+#: industrial.php:3373 industrial.php:3404 industrial.php:3405
+#: industrial.php:3448 industrial.php:3449 industrial.php:3455
+#: industrial.php:3456 industrial.php:3503 industrial.php:3504
+#: industrial.php:3569 industrial.php:3570 industrial.php:3606
+#: industrial.php:3607 industrial.php:3619 industrial.php:3620
+msgid "Custom"
+msgstr ""
+
+#: industrial.php:2851 industrial.php:2944 industrial.php:2958
+#: industrial.php:2972 industrial.php:2980 industrial.php:3035
+#: industrial.php:3082 industrial.php:3116 industrial.php:3173
+#: industrial.php:3190 industrial.php:3216 industrial.php:3241
+#: industrial.php:3290 industrial.php:3303 industrial.php:3321
+#: industrial.php:3336 industrial.php:3365 industrial.php:3373
+#: industrial.php:3405 industrial.php:3449 industrial.php:3456
+#: industrial.php:3504 industrial.php:3570 industrial.php:3607
+#: industrial.php:3620
+msgid "Inline Style"
+msgstr ""
+
+#: industrial.php:2855
+msgid "Section"
+msgstr ""
+
+#: industrial.php:2855
+msgid "Basic root element"
+msgstr ""
+
+#: industrial.php:2857
+msgid "Layout"
+msgstr ""
+
+#: industrial.php:2859
+msgid "Boxed (default 1200px)"
+msgstr ""
+
+#: industrial.php:2860
+msgid "Boxed (1100px)"
+msgstr ""
+
+#: industrial.php:2861
+msgid "Boxed (1000px)"
+msgstr ""
+
+#: industrial.php:2862
+msgid "Boxed (900px)"
+msgstr ""
+
+#: industrial.php:2863
+msgid "Boxed (800px)"
+msgstr ""
+
+#: industrial.php:2864
+msgid "Wide"
+msgstr ""
+
+#: industrial.php:2866 industrial.php:3379
+msgid "Top spaced"
+msgstr ""
+
+#: industrial.php:2869 industrial.php:2879 industrial.php:3382
+#: industrial.php:3392
+msgid "Extra-Small-Spaced"
+msgstr ""
+
+#: industrial.php:2870 industrial.php:2880 industrial.php:3383
+#: industrial.php:3393
+msgid "Small-Spaced"
+msgstr ""
+
+#: industrial.php:2871 industrial.php:2881 industrial.php:3384
+#: industrial.php:3394
+msgid "Semi-Spaced"
+msgstr ""
+
+#: industrial.php:2872 industrial.php:2882 industrial.php:3385
+#: industrial.php:3395
+msgid "Spaced"
+msgstr ""
+
+#: industrial.php:2873 industrial.php:2883 industrial.php:3386
+#: industrial.php:3396
+msgid "Large Spaced"
+msgstr ""
+
+#: industrial.php:2874
+msgid "Extra-Large Spaced"
+msgstr ""
+
+#: industrial.php:2876 industrial.php:3389
+msgid "Bottom spaced"
+msgstr ""
+
+#: industrial.php:2884 industrial.php:3387 industrial.php:3397
+msgid "Extra-Spaced"
+msgstr ""
+
+#: industrial.php:2886
+msgid "Skin"
+msgstr ""
+
+#: industrial.php:2888 industrial.php:2904 industrial.php:2994
+#: industrial.php:3056
+msgid "Inherit"
+msgstr ""
+
+#: industrial.php:2889
+msgid "Dark"
+msgstr ""
+
+#: industrial.php:2890
+msgid "Light"
+msgstr ""
+
+#: industrial.php:2891 industrial.php:3153 industrial.php:3273
+#: industrial.php:3428
+msgid "Accent"
+msgstr ""
+
+#: industrial.php:2892
+msgid "Accent + Light text"
+msgstr ""
+
+#: industrial.php:2893 industrial.php:3154 industrial.php:3274
+#: industrial.php:3429
+msgid "Alternate"
+msgstr ""
+
+#: industrial.php:2894
+msgid "Alternate + Dark text"
+msgstr ""
+
+#: industrial.php:2897 industrial.php:3346
+msgid "Full Screen"
+msgstr ""
+
+#: industrial.php:2902 industrial.php:2992 industrial.php:3054
+msgid "Vertical Align"
+msgstr ""
+
+#: industrial.php:2905 industrial.php:2995 industrial.php:3057
+#: industrial.php:3110 industrial.php:3256 industrial.php:3446
+msgid "Top"
+msgstr ""
+
+#: industrial.php:2906 industrial.php:2996 industrial.php:3058
+msgid "Middle"
+msgstr ""
+
+#: industrial.php:2907 industrial.php:2997 industrial.php:3059
+#: industrial.php:3111 industrial.php:3169
+msgid "Bottom"
+msgstr ""
+
+#: industrial.php:2909
+msgid "Divider"
+msgstr ""
+
+#: industrial.php:2917
+msgid "Background Image"
+msgstr ""
+
+#: industrial.php:2923 industrial.php:3030 industrial.php:3079
+msgid "Background color"
+msgstr ""
+
+#: industrial.php:2924
+msgid "Background Overlay"
+msgstr ""
+
+#: industrial.php:2926
+msgid "None"
+msgstr ""
+
+#: industrial.php:2927
+msgid "Light Stripes"
+msgstr ""
+
+#: industrial.php:2928
+msgid "Dark Stripes"
+msgstr ""
+
+#: industrial.php:2929
+msgid "Dark Solid"
+msgstr ""
+
+#: industrial.php:2930
+msgid "Light Solid"
+msgstr ""
+
+#: industrial.php:2932
+msgid "YouTube Background Video"
+msgstr ""
+
+#: industrial.php:2932 industrial.php:2933 industrial.php:2934
+#: industrial.php:2935 industrial.php:2936
+msgid "Video"
+msgstr ""
+
+#: industrial.php:2933
+msgid "Video Settings (e.g. startAt:20, mute:true, stopMovieOnBlur:false)"
+msgstr ""
+
+#: industrial.php:2934
+msgid "MP4 Background Video"
+msgstr ""
+
+#: industrial.php:2935
+msgid "Ogg Background Video"
+msgstr ""
+
+#: industrial.php:2936
+msgid "WebM Background Video"
+msgstr ""
+
+#: industrial.php:2937
+msgid "Parallax (e.g. -.7)"
+msgstr ""
+
+#: industrial.php:2938
+msgid "Parallax Offset in px (e.g. -100)"
+msgstr ""
+
+#: industrial.php:2939
+msgid "Animation (forward)"
+msgstr ""
+
+#: industrial.php:2939 industrial.php:2940 industrial.php:2941
+msgid "Animations"
+msgstr ""
+
+#: industrial.php:2940
+msgid "Animation (backward)"
+msgstr ""
+
+#: industrial.php:2941
+msgid "Impress Animation Settings"
+msgstr ""
+
+#: industrial.php:2942
+msgid "Custom Id Attribute"
+msgstr ""
+
+#: industrial.php:2948
+msgid "Row"
+msgstr ""
+
+#: industrial.php:2948
+msgid "Row element"
+msgstr ""
+
+#: industrial.php:2950 industrial.php:2964
+msgid "Cell Spacing"
+msgstr ""
+
+#: industrial.php:2952 industrial.php:2966 industrial.php:3007
+#: industrial.php:3049 industrial.php:3140 industrial.php:3152
+#: industrial.php:3415 industrial.php:3427
+msgid "Default"
+msgstr ""
+
+#: industrial.php:2954 industrial.php:2968
+msgid "Double"
+msgstr ""
+
+#: industrial.php:2955 industrial.php:2969
+msgid "Triple"
+msgstr ""
+
+#: industrial.php:2962
+msgid "Inner Row"
+msgstr ""
+
+#: industrial.php:2962
+msgid "Inner Row element"
+msgstr ""
+
+#: industrial.php:2976
+msgid "Custom Menu"
+msgstr ""
+
+#: industrial.php:2978
+msgid "Menu Name"
+msgstr ""
+
+#: industrial.php:2984
+msgid "Column"
+msgstr ""
+
+#: industrial.php:2984
+msgid "Column element"
+msgstr ""
+
+#: industrial.php:2986 industrial.php:3041
+msgid "Align"
+msgstr ""
+
+#: industrial.php:2988 industrial.php:3002 industrial.php:3043
+#: industrial.php:3268
+msgid "Left"
+msgstr ""
+
+#: industrial.php:2989 industrial.php:3003 industrial.php:3044
+#: industrial.php:3266
+msgid "Right"
+msgstr ""
+
+#: industrial.php:2990 industrial.php:3045
+msgid "Center"
+msgstr ""
+
+#: industrial.php:2999 industrial.php:3399
+msgid "Border"
+msgstr ""
+
+#: industrial.php:3001
+msgid "No Border"
+msgstr ""
+
+#: industrial.php:3005 industrial.php:3047
+msgid "Padding"
+msgstr ""
+
+#: industrial.php:3008 industrial.php:3050
+msgid "No padding"
+msgstr ""
+
+#: industrial.php:3009 industrial.php:3051
+msgid "Double padding"
+msgstr ""
+
+#: industrial.php:3010 industrial.php:3052
+msgid "Text indent"
+msgstr ""
+
+#: industrial.php:3012 industrial.php:3066
+msgid "Animation"
+msgstr ""
+
+#: industrial.php:3014 industrial.php:3068
+msgid "No Animation"
+msgstr ""
+
+#: industrial.php:3015 industrial.php:3069
+msgid "Fade In"
+msgstr ""
+
+#: industrial.php:3016 industrial.php:3070
+msgid "Move Up"
+msgstr ""
+
+#: industrial.php:3017 industrial.php:3071
+msgid "Move Left"
+msgstr ""
+
+#: industrial.php:3018 industrial.php:3072
+msgid "Move Right"
+msgstr ""
+
+#: industrial.php:3019 industrial.php:3073
+msgid "Move Down"
+msgstr ""
+
+#: industrial.php:3020 industrial.php:3074
+msgid "Fade In / Move Up"
+msgstr ""
+
+#: industrial.php:3021 industrial.php:3075
+msgid "Fade In / Move Left"
+msgstr ""
+
+#: industrial.php:3022 industrial.php:3076
+msgid "Fade In / Move Right"
+msgstr ""
+
+#: industrial.php:3023 industrial.php:3077
+msgid "Fade In / Move Down"
+msgstr ""
+
+#: industrial.php:3025
+msgid "Cell highlight"
+msgstr ""
+
+#: industrial.php:3031
+msgid "Transparent (e.g. 0.4)"
+msgstr ""
+
+#: industrial.php:3032
+msgid "Inner Background color"
+msgstr ""
+
+#: industrial.php:3033
+msgid "Background image"
+msgstr ""
+
+#: industrial.php:3039
+msgid "Inner Column"
+msgstr ""
+
+#: industrial.php:3039
+msgid "Inner Column element"
+msgstr ""
+
+#: industrial.php:3061
+msgid "Highlight"
+msgstr ""
+
+#: industrial.php:3080
+msgid "Opacity (0 - 1, e.g. 0.4)"
+msgstr ""
+
+#: industrial.php:3086 industrial.php:3171 industrial.php:3247
+#: industrial.php:3327
+msgid "Text"
+msgstr ""
+
+#: industrial.php:3086
+msgid "Text element"
+msgstr ""
+
+#: industrial.php:3088
+msgid "Header"
+msgstr ""
+
+#: industrial.php:3088
+msgid "Header element"
+msgstr ""
+
+#: industrial.php:3090
+msgid "Superheadline"
+msgstr ""
+
+#: industrial.php:3091 industrial.php:3123 industrial.php:3131
+#: industrial.php:3165
+msgid "Headline"
+msgstr ""
+
+#: industrial.php:3092 industrial.php:3474
+msgid "Headline Size"
+msgstr ""
+
+#: industrial.php:3094 industrial.php:3158 industrial.php:3278
+#: industrial.php:3433 industrial.php:3476
+msgid "Small"
+msgstr ""
+
+#: industrial.php:3095 industrial.php:3477
+msgid "ExtraSmall"
+msgstr ""
+
+#: industrial.php:3096 industrial.php:3160 industrial.php:3280
+#: industrial.php:3435 industrial.php:3478
+msgid "Medium"
+msgstr ""
+
+#: industrial.php:3097 industrial.php:3162 industrial.php:3300
+#: industrial.php:3313 industrial.php:3437 industrial.php:3479
+msgid "Large"
+msgstr ""
+
+#: industrial.php:3098 industrial.php:3480
+msgid "Extra large"
+msgstr ""
+
+#: industrial.php:3099 industrial.php:3481
+msgid "Huge"
+msgstr ""
+
+#: industrial.php:3101
+msgid "Headline Style"
+msgstr ""
+
+#: industrial.php:3103 industrial.php:3233
+msgid "Regular"
+msgstr ""
+
+#: industrial.php:3104
+msgid "Thin"
+msgstr ""
+
+#: industrial.php:3105
+msgid "Bold"
+msgstr ""
+
+#: industrial.php:3107 industrial.php:3166
+msgid "Dash"
+msgstr ""
+
+#: industrial.php:3112
+msgid "Top and Bottom"
+msgstr ""
+
+#: industrial.php:3114
+msgid "Subheadline"
+msgstr ""
+
+#: industrial.php:3120
+msgid "Tabs"
+msgstr ""
+
+#: industrial.php:3120
+msgid "Tabs container"
+msgstr ""
+
+#: industrial.php:3122
+msgid "Tab Item"
+msgstr ""
+
+#: industrial.php:3122
+msgid "Tabs items"
+msgstr ""
+
+#: industrial.php:3127
+msgid "Accordion"
+msgstr ""
+
+#: industrial.php:3127
+msgid "Accordion container"
+msgstr ""
+
+#: industrial.php:3129
+msgid "Accordion Item"
+msgstr ""
+
+#: industrial.php:3129
+msgid "Single accordion element"
+msgstr ""
+
+#: industrial.php:3135
+msgid "Service"
+msgstr ""
+
+#: industrial.php:3135
+msgid "Service element"
+msgstr ""
+
+#: industrial.php:3137 industrial.php:3183 industrial.php:3248
+#: industrial.php:3409 industrial.php:3411
+msgid "Icon"
+msgstr ""
+
+#: industrial.php:3138 industrial.php:3413
+msgid "Icon Type"
+msgstr ""
+
+#: industrial.php:3141 industrial.php:3261 industrial.php:3332
+#: industrial.php:3416
+msgid "Filled"
+msgstr ""
+
+#: industrial.php:3142 industrial.php:3260 industrial.php:3417
+msgid "Outline"
+msgstr ""
+
+#: industrial.php:3144 industrial.php:3419
+msgid "Icon Shape"
+msgstr ""
+
+#: industrial.php:3148 industrial.php:3423
+msgid "Hexagon"
+msgstr ""
+
+#: industrial.php:3150 industrial.php:3425
+msgid "Icon Color"
+msgstr ""
+
+#: industrial.php:3156 industrial.php:3431
+msgid "Icon Size"
+msgstr ""
+
+#: industrial.php:3159 industrial.php:3279 industrial.php:3434
+msgid "Extra Small"
+msgstr ""
+
+#: industrial.php:3161 industrial.php:3281 industrial.php:3436
+msgid "Big"
+msgstr ""
+
+#: industrial.php:3177
+msgid "Google Maps"
+msgstr ""
+
+#: industrial.php:3177
+msgid "Google Maps with marker on specified coordinates"
+msgstr ""
+
+#: industrial.php:3179
+msgid "API key"
+msgstr ""
+
+#: industrial.php:3180
+msgid "Latitude"
+msgstr ""
+
+#: industrial.php:3181
+msgid "Longitude"
+msgstr ""
+
+#: industrial.php:3182
+msgid "Zoom (e.g. 14)"
+msgstr ""
+
+#: industrial.php:3184
+msgid "Height (e.g. 250px)"
+msgstr ""
+
+#: industrial.php:3185
+msgid "Map primary color"
+msgstr ""
+
+#: industrial.php:3186
+msgid "Map secondary color"
+msgstr ""
+
+#: industrial.php:3187
+msgid "Map water color"
+msgstr ""
+
+#: industrial.php:3188
+msgid "Custom map style array"
+msgstr ""
+
+#: industrial.php:3194
+msgid "Simple slider"
+msgstr ""
+
+#: industrial.php:3196 industrial.php:3230
+msgid "Type"
+msgstr ""
+
+#: industrial.php:3198
+msgid "Finite"
+msgstr ""
+
+#: industrial.php:3199
+msgid "Infinite"
+msgstr ""
+
+#: industrial.php:3202
+msgid "Slides to Show"
+msgstr ""
+
+#: industrial.php:3204 industrial.php:3514 industrial.php:3535
+#: industrial.php:3585 industrial.php:3601
+msgid "4"
+msgstr ""
+
+#: industrial.php:3205 industrial.php:3515 industrial.php:3536
+#: industrial.php:3586 industrial.php:3602
+msgid "5"
+msgstr ""
+
+#: industrial.php:3206 industrial.php:3516 industrial.php:3537
+#: industrial.php:3587 industrial.php:3603
+msgid "6"
+msgstr ""
+
+#: industrial.php:3209 industrial.php:3348
+msgid "Auto Play Speed (e.g. 3000)"
+msgstr ""
+
+#: industrial.php:3213
+msgid "Simple slider item"
+msgstr ""
+
+#: industrial.php:3220 industrial.php:4674
+msgid "Twitter"
+msgstr ""
+
+#: industrial.php:3220
+msgid "Twitter posts"
+msgstr ""
+
+#: industrial.php:3222
+msgid "Number of Tweets"
+msgstr ""
+
+#: industrial.php:3223
+msgid "Username (or #hashtag)"
+msgstr ""
+
+#: industrial.php:3224
+msgid "Cache (minutes)"
+msgstr ""
+
+#: industrial.php:3225
+msgid "Cache ID"
+msgstr ""
+
+#: industrial.php:3226
+msgid "Consumer Key"
+msgstr ""
+
+#: industrial.php:3227
+msgid "Consumer Secret"
+msgstr ""
+
+#: industrial.php:3228
+msgid "Access Token"
+msgstr ""
+
+#: industrial.php:3229
+msgid "Access Token Secret"
+msgstr ""
+
+#: industrial.php:3232 industrial.php:3340
+msgid "Slider"
+msgstr ""
+
+#: industrial.php:3235
+msgid "Show avatar"
+msgstr ""
+
+#: industrial.php:3245
+msgid "Button"
+msgstr ""
+
+#: industrial.php:3245
+msgid "Button with custom link"
+msgstr ""
+
+#: industrial.php:3250 industrial.php:3440
+msgid "Target window"
+msgstr ""
+
+#: industrial.php:3255 industrial.php:3445
+msgid "Parent"
+msgstr ""
+
+#: industrial.php:3258 industrial.php:3330
+msgid "Style"
+msgstr ""
+
+#: industrial.php:3262
+msgid "Borderless"
+msgstr ""
+
+#: industrial.php:3264
+msgid "Icon Position"
+msgstr ""
+
+#: industrial.php:3267
+msgid "Inline"
+msgstr ""
+
+#: industrial.php:3270 industrial.php:3329
+msgid "Color"
+msgstr ""
+
+#: industrial.php:3272 industrial.php:3286 industrial.php:3299
+#: industrial.php:3312
+msgid "Normal"
+msgstr ""
+
+#: industrial.php:3284
+msgid "Width"
+msgstr ""
+
+#: industrial.php:3294
+msgid "Counter"
+msgstr ""
+
+#: industrial.php:3294
+msgid "Animated counter"
+msgstr ""
+
+#: industrial.php:3296
+msgid "Number"
+msgstr ""
+
+#: industrial.php:3307
+msgid "Countdown"
+msgstr ""
+
+#: industrial.php:3307
+msgid "Animated countdown"
+msgstr ""
+
+#: industrial.php:3309
+msgid "Target Date and Time"
+msgstr ""
+
+#: industrial.php:3309
+msgid "YY-mm-dd HH:mm:ss, e.g. 2015-02-22 22:45:00"
+msgstr ""
+
+#: industrial.php:3315
+msgid "Hide Indication"
+msgstr ""
+
+#: industrial.php:3315
+msgid "Hide indication of days, hours, minutes and seconds"
+msgstr ""
+
+#: industrial.php:3325
+msgid "Percentage bar"
+msgstr ""
+
+#: industrial.php:3325
+msgid "Animated percentage bar"
+msgstr ""
+
+#: industrial.php:3328
+msgid "Percentage"
+msgstr ""
+
+#: industrial.php:3333
+msgid "Line"
+msgstr ""
+
+#: industrial.php:3340
+msgid "Slider container"
+msgstr ""
+
+#: industrial.php:3342
+msgid "Slider height"
+msgstr ""
+
+#: industrial.php:3344
+msgid "Auto/Adaptive"
+msgstr ""
+
+#: industrial.php:3345
+msgid "Fixed/Keep Height"
+msgstr ""
+
+#: industrial.php:3349
+msgid "Hide Arrows"
+msgstr ""
+
+#: industrial.php:3354
+msgid "Hide Paging"
+msgstr ""
+
+#: industrial.php:3359
+msgid "Simple Arrows"
+msgstr ""
+
+#: industrial.php:3369
+msgid "Slider Item"
+msgstr ""
+
+#: industrial.php:3369
+msgid "Individual slide element"
+msgstr ""
+
+#: industrial.php:3377
+msgid "Separator"
+msgstr ""
+
+#: industrial.php:3377
+msgid "Horizontal separator"
+msgstr ""
+
+#: industrial.php:3409
+msgid "Single icon with link"
+msgstr ""
+
+#: industrial.php:3412 industrial.php:3613
+msgid "Title"
+msgstr ""
+
+#: industrial.php:3421
+msgid "Cirle"
+msgstr ""
+
+#: industrial.php:3453
+msgid "Icon and images holder"
+msgstr ""
+
+#: industrial.php:3453
+msgid "Icon container"
+msgstr ""
+
+#: industrial.php:3460
+msgid "Latest Posts"
+msgstr ""
+
+#: industrial.php:3460
+msgid "Recent posts"
+msgstr ""
+
+#: industrial.php:3462
+msgid "Number of Items"
+msgstr ""
+
+#: industrial.php:3463 industrial.php:3518
+msgid "Category Slug"
+msgstr ""
+
+#: industrial.php:3464
+msgid "Format"
+msgstr ""
+
+#: industrial.php:3466
+msgid "Horizontal"
+msgstr ""
+
+#: industrial.php:3467
+msgid "Vertical"
+msgstr ""
+
+#: industrial.php:3469 industrial.php:3554
+msgid "Post Type"
+msgstr ""
+
+#: industrial.php:3471 industrial.php:3556
+msgid "Blog"
+msgstr ""
+
+#: industrial.php:3472 industrial.php:3557 industrial.php:4769
+msgid "Portfolio"
+msgstr ""
+
+#: industrial.php:3483
+msgid "Show Excerpt"
+msgstr ""
+
+#: industrial.php:3488
+msgid "Show Date"
+msgstr ""
+
+#: industrial.php:3493
+msgid "Show Categories"
+msgstr ""
+
+#: industrial.php:3498
+msgid "Show Author"
+msgstr ""
+
+#: industrial.php:3508
+msgid "Grid"
+msgstr ""
+
+#: industrial.php:3508
+msgid "Grid with recent posts"
+msgstr ""
+
+#: industrial.php:3510
+msgid "Number of items"
+msgstr ""
+
+#: industrial.php:3511 industrial.php:3598
+msgid "Columns"
+msgstr ""
+
+#: industrial.php:3513 industrial.php:3534 industrial.php:3584
+#: industrial.php:3600
+msgid "3"
+msgstr ""
+
+#: industrial.php:3519
+msgid "Category Filter"
+msgstr ""
+
+#: industrial.php:3524
+msgid "Grid Type"
+msgstr ""
+
+#: industrial.php:3526
+msgid "Classic"
+msgstr ""
+
+#: industrial.php:3527
+msgid "Tiled"
+msgstr ""
+
+#: industrial.php:3529 industrial.php:3579
+msgid "Grid Gap"
+msgstr ""
+
+#: industrial.php:3531 industrial.php:3581
+msgid "0"
+msgstr ""
+
+#: industrial.php:3532 industrial.php:3582
+msgid "1"
+msgstr ""
+
+#: industrial.php:3533 industrial.php:3583
+msgid "2"
+msgstr ""
+
+#: industrial.php:3538 industrial.php:3588
+msgid "7"
+msgstr ""
+
+#: industrial.php:3539 industrial.php:3589
+msgid "8"
+msgstr ""
+
+#: industrial.php:3540 industrial.php:3590
+msgid "9"
+msgstr ""
+
+#: industrial.php:3541 industrial.php:3591
+msgid "10"
+msgstr ""
+
+#: industrial.php:3542 industrial.php:3592
+msgid "15"
+msgstr ""
+
+#: industrial.php:3543 industrial.php:3593
+msgid "20"
+msgstr ""
+
+#: industrial.php:3544 industrial.php:3594
+msgid "30"
+msgstr ""
+
+#: industrial.php:3545 industrial.php:3595
+msgid "40"
+msgstr ""
+
+#: industrial.php:3546 industrial.php:3596
+msgid "50"
+msgstr ""
+
+#: industrial.php:3548
+msgid "Tiled Format"
+msgstr ""
+
+#: industrial.php:3549
+msgid "Show Title in Tiles"
+msgstr ""
+
+#: industrial.php:3559
+msgid "Scroll Loading"
+msgstr ""
+
+#: industrial.php:3564
+msgid "Show Sticky Posts"
+msgstr ""
+
+#: industrial.php:3574
+msgid "Grid Gallery"
+msgstr ""
+
+#: industrial.php:3574
+msgid "Responsive grid gallery with lightbox."
+msgstr ""
+
+#: industrial.php:3576
+msgid "Images"
+msgstr ""
+
+#: industrial.php:3577
+msgid "Format (e.g. 21,11,12)"
+msgstr ""
+
+#: industrial.php:3605
+msgid "Links (in one line, separated by commas)"
+msgstr ""
+
+#: industrial.php:3611
+msgid "Price List"
+msgstr ""
+
+#: industrial.php:3611
+msgid "Price List element"
+msgstr ""
+
+#: industrial.php:3614
+msgid "Subtitle"
+msgstr ""
+
+#: industrial.php:3615
+msgid "Sticker Text"
+msgstr ""
+
+#: industrial.php:3616
+msgid "Currency"
+msgstr ""
+
+#: industrial.php:3617
+msgid "Price"
+msgstr ""
+
+#: industrial.php:3618
+msgid "Items"
+msgstr ""
+
+#: industrial.php:3640
+msgid "BT Gallery"
+msgstr ""
+
+#: industrial.php:3641
+msgid "Gallery widget."
+msgstr ""
+
+#: industrial.php:3660
+msgid "Gallery"
+msgstr ""
+
+#: industrial.php:3664 industrial.php:3719 industrial.php:3845
+#: industrial.php:4291 industrial.php:4360 industrial.php:4514
+#: industrial.php:4684
+msgid "Title:"
+msgstr ""
+
+#: industrial.php:3668
+msgid "List of image IDs (comma-separated):"
+msgstr ""
+
+#: industrial.php:3693
+msgid "BT Text Image"
+msgstr ""
+
+#: industrial.php:3694
+msgid "Text with image."
+msgstr ""
+
+#: industrial.php:3723
+msgid "Image IDs:"
+msgstr ""
+
+#: industrial.php:3727 industrial.php:3849
+msgid "Text:"
+msgstr ""
+
+#: industrial.php:3753
+msgid "BT Icon"
+msgstr ""
+
+#: industrial.php:3754
+msgid "Icon with text and link."
+msgstr ""
+
+#: industrial.php:3830
+msgid "Icon:"
+msgstr ""
+
+#: industrial.php:3853
+msgid "URL or slug:"
+msgstr ""
+
+#: industrial.php:3858
+msgid "Show in accent color"
+msgstr ""
+
+#: industrial.php:3861
+msgid "Target:"
+msgstr ""
+
+#: industrial.php:3902
+msgid "BT Weather"
+msgstr ""
+
+#: industrial.php:3903
+msgid "Weather widget."
+msgstr ""
+
+#: industrial.php:3986 industrial.php:4060
+msgid "Now"
+msgstr ""
+
+#: industrial.php:3996 industrial.php:4060
+msgid "Today"
+msgstr ""
+
+#: industrial.php:4006 industrial.php:4060
+msgid "Tomorrow"
+msgstr ""
+
+#: industrial.php:4034
+msgid "Latitude:"
+msgstr ""
+
+#: industrial.php:4038
+msgid "Longitude:"
+msgstr ""
+
+#: industrial.php:4042
+msgid "Temperature unit:"
+msgstr ""
+
+#: industrial.php:4045
+msgid "Celsius"
+msgstr ""
+
+#: industrial.php:4045
+msgid "Fahrenheit"
+msgstr ""
+
+#: industrial.php:4057
+msgid "Type:"
+msgstr ""
+
+#: industrial.php:4072 industrial.php:4526 industrial.php:4696
+msgid "Cache (minutes):"
+msgstr ""
+
+#: industrial.php:4100
+msgid "BT Time"
+msgstr ""
+
+#: industrial.php:4101
+msgid "Time widget."
+msgstr ""
+
+#: industrial.php:4129
+msgid "Time zone:"
+msgstr ""
+
+#: industrial.php:4148
+msgid "Place name:"
+msgstr ""
+
+#: industrial.php:4152
+msgid "Time notation:"
+msgstr ""
+
+#: industrial.php:4158
+msgid "24 hours"
+msgstr ""
+
+#: industrial.php:4158
+msgid "12 hours"
+msgstr ""
+
+#: industrial.php:4227
+msgid "BT Recent Posts"
+msgstr ""
+
+#: industrial.php:4228
+msgid "Recent posts with thumbnails."
+msgstr ""
+
+#: industrial.php:4287
+msgid "Recent Posts"
+msgstr ""
+
+#: industrial.php:4295
+msgid "Number of posts:"
+msgstr ""
+
+#: industrial.php:4321
+msgid "BT Recent Comments"
+msgstr ""
+
+#: industrial.php:4322
+msgid "Recent comments with avatars."
+msgstr ""
+
+#: industrial.php:4356
+msgid "Recent Comments"
+msgstr ""
+
+#: industrial.php:4364
+msgid "Number of comments:"
+msgstr ""
+
+#: industrial.php:4391
+msgid "BT Instagram"
+msgstr ""
+
+#: industrial.php:4392
+msgid "Instagram photos."
+msgstr ""
+
+#: industrial.php:4507
+msgid "Instagram"
+msgstr ""
+
+#: industrial.php:4518
+msgid "Number of photos:"
+msgstr ""
+
+#: industrial.php:4522
+msgid "Hashtag:"
+msgstr ""
+
+#: industrial.php:4530 industrial.php:4708
+msgid "Access token:"
+msgstr ""
+
+#: industrial.php:4620
+msgid "BT Twitter"
+msgstr ""
+
+#: industrial.php:4621
+msgid "Twitter feed."
+msgstr ""
+
+#: industrial.php:4688
+msgid "Number of tweets:"
+msgstr ""
+
+#: industrial.php:4692
+msgid "Username  (or #hashtag):"
+msgstr ""
+
+#: industrial.php:4700
+msgid "Consumer key:"
+msgstr ""
+
+#: industrial.php:4704
+msgid "Consumer secret:"
+msgstr ""
+
+#: industrial.php:4712
+msgid "Access token secret:"
+msgstr ""
+
+#: industrial.php:4770
+msgid "Portfolio Item"
+msgstr ""
+
+#: industrial.php:4779
+msgid "Portfolio Categories"
+msgstr ""
+
+#: section_anims.php:7
+msgid "Move to left | from right"
+msgstr ""
+
+#: section_anims.php:8
+msgid "Move to right | from left"
+msgstr ""
+
+#: section_anims.php:9
+msgid "Move to top | from bottom"
+msgstr ""
+
+#: section_anims.php:10
+msgid "Move to bottom | from top"
+msgstr ""
+
+#: section_anims.php:11
+msgid "Fade | from right"
+msgstr ""
+
+#: section_anims.php:12
+msgid "Fade | from left"
+msgstr ""
+
+#: section_anims.php:13
+msgid "Fade | from bottom"
+msgstr ""
+
+#: section_anims.php:14
+msgid "Fade | from top"
+msgstr ""
+
+#: section_anims.php:15
+msgid "Fade left | Fade right"
+msgstr ""
+
+#: section_anims.php:16
+msgid "Fade right | Fade left"
+msgstr ""
+
+#: section_anims.php:17
+msgid "Fade top | Fade bottom"
+msgstr ""
+
+#: section_anims.php:18
+msgid "Fade bottom | Fade top"
+msgstr ""
+
+#: section_anims.php:19
+msgid "Different easing | from right"
+msgstr ""
+
+#: section_anims.php:20
+msgid "Different easing | from left"
+msgstr ""
+
+#: section_anims.php:21
+msgid "Different easing | from bottom"
+msgstr ""
+
+#: section_anims.php:22
+msgid "Different easing | from top"
+msgstr ""
+
+#: section_anims.php:23
+msgid "Scale down | from right"
+msgstr ""
+
+#: section_anims.php:24
+msgid "Scale down | from left"
+msgstr ""
+
+#: section_anims.php:25
+msgid "Scale down | from bottom"
+msgstr ""
+
+#: section_anims.php:26
+msgid "Scale down | from top"
+msgstr ""
+
+#: section_anims.php:27
+msgid "Scale down | scale down"
+msgstr ""
+
+#: section_anims.php:28
+msgid "Scale up | scale up"
+msgstr ""
+
+#: section_anims.php:29
+msgid "Move to left | scale up"
+msgstr ""
+
+#: section_anims.php:30
+msgid "Move to right | scale up"
+msgstr ""
+
+#: section_anims.php:31
+msgid "Move to top | scale up"
+msgstr ""
+
+#: section_anims.php:32
+msgid "Move to bottom | scale up"
+msgstr ""
+
+#: section_anims.php:33
+msgid "Scale down | scale up"
+msgstr ""
+
+#: section_anims.php:34
+msgid "Glue left | from right"
+msgstr ""
+
+#: section_anims.php:35
+msgid "Glue right | from left"
+msgstr ""
+
+#: section_anims.php:36
+msgid "Glue bottom | from top"
+msgstr ""
+
+#: section_anims.php:37
+msgid "Glue top | from bottom"
+msgstr ""
+
+#: section_anims.php:38
+msgid "Flip right"
+msgstr ""
+
+#: section_anims.php:39
+msgid "Flip left"
+msgstr ""
+
+#: section_anims.php:40
+msgid "Flip top"
+msgstr ""
+
+#: section_anims.php:41
+msgid "Flip bottom"
+msgstr ""
+
+#: section_anims.php:42
+msgid "Push left | from right"
+msgstr ""
+
+#: section_anims.php:43
+msgid "Push right | from left"
+msgstr ""
+
+#: section_anims.php:44
+msgid "Push top | from bottom"
+msgstr ""
+
+#: section_anims.php:45
+msgid "Push bottom | from top"
+msgstr ""
+
+#: section_anims.php:46
+msgid "Push left | pull right"
+msgstr ""
+
+#: section_anims.php:47
+msgid "Push right | pull left"
+msgstr ""
+
+#: section_anims.php:48
+msgid "Push top | pull bottom"
+msgstr ""
+
+#: section_anims.php:49
+msgid "Push bottom | pull top"
+msgstr ""
+
+#: section_anims.php:50
+msgid "Fold left | from right"
+msgstr ""
+
+#: section_anims.php:51
+msgid "Fold right | from left"
+msgstr ""
+
+#: section_anims.php:52
+msgid "Fold top | from bottom"
+msgstr ""
+
+#: section_anims.php:53
+msgid "Fold bottom | from top"
+msgstr ""
+
+#: section_anims.php:54
+msgid "Move to right | unfold left"
+msgstr ""
+
+#: section_anims.php:55
+msgid "Move to left | unfold right"
+msgstr ""
+
+#: section_anims.php:56
+msgid "Move to bottom | unfold top"
+msgstr ""
+
+#: section_anims.php:57
+msgid "Move to top | unfold bottom"
+msgstr ""
+
+#: section_anims.php:58
+msgid "Room to left"
+msgstr ""
+
+#: section_anims.php:59
+msgid "Room to right"
+msgstr ""
+
+#: section_anims.php:60
+msgid "Room to top"
+msgstr ""
+
+#: section_anims.php:61
+msgid "Room to bottom"
+msgstr ""
+
+#: section_anims.php:62
+msgid "Cube to left"
+msgstr ""
+
+#: section_anims.php:63
+msgid "Cube to right"
+msgstr ""
+
+#: section_anims.php:64
+msgid "Cube to top"
+msgstr ""
+
+#: section_anims.php:65
+msgid "Cube to bottom"
+msgstr ""
+
+#: section_anims.php:66
+msgid "Carousel to left"
+msgstr ""
+
+#: section_anims.php:67
+msgid "Carousel to right"
+msgstr ""
+
+#: section_anims.php:68
+msgid "Carousel to top"
+msgstr ""
+
+#: section_anims.php:69
+msgid "Carousel to bottom"
+msgstr ""
+
+#: section_anims.php:70
+msgid "Sides"
+msgstr ""
+
+#: section_anims.php:71
+msgid "Slide"
+msgstr ""
+
+#: framework_plugin/framework.php:51
+msgid "Custom JS (Top)"
+msgstr ""
+
+#: framework_plugin/framework.php:73
+msgid "Custom JS (Bottom)"
+msgstr ""
+
+#: framework_plugin/framework.php:97 framework_plugin/framework.php:206
+#: framework_plugin/framework.php:315
+msgid "Share on Facebook"
+msgstr ""
+
+#: framework_plugin/framework.php:118 framework_plugin/framework.php:227
+#: framework_plugin/framework.php:336
+msgid "Share on Twitter"
+msgstr ""
+
+#: framework_plugin/framework.php:139 framework_plugin/framework.php:249
+#: framework_plugin/framework.php:358
+msgid "Share on LinkedIn"
+msgstr ""
+
+#: framework_plugin/framework.php:160 framework_plugin/framework.php:270
+#: framework_plugin/framework.php:380
+msgid "Share on VK"
+msgstr ""
+
+#: framework_plugin/framework.php:182 framework_plugin/framework.php:291
+#: framework_plugin/framework.php:401
+msgid "Share on WhatsApp"
+msgstr ""
